@@ -1,5 +1,5 @@
 body {
-  color: rgb(139, 134, 134);
+  color: rgb(192, 8, 8);
   background: black;
   margin: 0px;
   font-family: "chakra petch", sans-serif
@@ -43,8 +43,6 @@ section {
   display: flex;
   justify-content: center;
 }
-
-/* código omitido */
 
 section {
   padding-left: 20px;
