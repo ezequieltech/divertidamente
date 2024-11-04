@@ -44,11 +44,6 @@ p {
   font-size: 20px;
 }
 
-section {
-  ~~display: block;
-  ~~unicode-bidi: isolate;
-}
-
 div {
   margin-right: 20px;
 }
