@@ -43,7 +43,8 @@ section {
     ~~display: block;~~
   unicode-bidi: isolate;
 
-}div {
+}
+div {
     margin-right: 20px;
 }
 section {
